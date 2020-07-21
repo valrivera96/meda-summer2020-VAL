@@ -1,0 +1,32 @@
+COLOR CHOICE: I want to use a minimalist style on my page. Easy on the eyes and very clean cut. I don’t think I want to use many different colors. For the background I’m thinking grey/light grey for the background on all 3 pages. For the header, body, and footer text I’m going to use black text. It will look good against the grey and pop out. For any links for important parts of text I’m thinking red or orange just because these will go good with the other colors. I wan’t everything centered on the pages.
+
+*Changes as of 07/16: NAME and Links - #B85B09, this is like a burnt orange color
+				BODY(Text) - #4E5557 (lighter grey) & ##383B3D (darker grey)
+				BACKGROUND- I was orignally going to do a darker background but I want to do white instead so the name pops out.
+	*I could possibly try to create a logo for myself if I have enough time.
+	*The picture of myself will be in circle format or like a diamond if I can figure out how to do it.
+
+
+ABOUT ME: Hi, my name is Valentina Rivera-Arriola. Born and raised in San Francisco, California. I’m 23 years old and currently seeking to advance my career! I don’t have any experience in coding, but I’m currently learning and developing skills that I will have to use in the field. 
+
+Most of my job experience is customer service based and security. I do physical security of a big tech company in San Mateo, CA called Snowflake Computing. Everyday I see how much this industry is growing and the demand for people working in this field is very high. Getting an inside look of how everyone works everyday has actually made me curious to what they do on a daily basis which led me to take an “Intro to coding” class. I’m more so testing out the waters to see if this is something that I’d actually like to pursue long term. I have an interest in the network security aspect, so I’m looking forward to see what that’s all about.
+	*Include picture of self(1 maybe 2 pictures)
+
+
+CONTACT: Resume(PDF) link will be here as well as email and possibly indeed page. Working on making a LINKEDIN profile.
+
+
+PROJECTS: If applicable, any previous experience or projects will go here. Which is none.
+	***Get some clarification on what else could go on this page.
+
+NOTES ON PORTFOLIO EXAMPLES(and links):
+Website: https://onextrapixel.com/60-clean-and-simple-examples-of-portfolio-design/
+
+Fabrizio Del Gaudio: http://www.fabriziodelgaudio.it/ - I really like the navigation on this page. I love how all the text moves on top of the background pictures. I also like that he has own logo on the header/footer of the page. I like the font choice as well. The only thing I dislike about this page is, it’s a bit dark.
+
+Mark Lamb: https://marklamb.com/ - I like the navigation and also the fact that he has a sort of “review” that consists of past colleagues or bosses. What I didn’t like about Fabrizio’s page, I really like on Mark’s. The background is all black with text and logo as white or off white. This portfolio gives me Apple vibes and I really like that. I dislike that he didn’t really introduce himself just “From startups to global tech giants, I’ve helped raise the bar for design speed and quality.” It comes off as kind of cocky to me.
+
+Karl Clement: https://www.karlclement.me/ - This is the only portfolio that I don’t like. The way all the text is pieced together in boxes is throwing me off. I feel like It’s not flowing well.
+
+
+
