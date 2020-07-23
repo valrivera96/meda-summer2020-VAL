@@ -1,11 +1,12 @@
 COLOR CHOICE: I want to use a minimalist style on my page. Easy on the eyes and very clean cut. I don’t think I want to use many different colors. For the background I’m thinking grey/light grey for the background on all 3 pages. For the header, body, and footer text I’m going to use black text. It will look good against the grey and pop out. For any links for important parts of text I’m thinking red or orange just because these will go good with the other colors. I wan’t everything centered on the pages.
 
-*Changes as of 07/16: NAME and Links - #B85B09, this is like a burnt orange color
-				BODY(Text) - #4E5557 (lighter grey) & ##383B3D (darker grey)
+*Changes as of 07/16: NAME and Links -, #B85B09 this is like a burnt orange color
+				BODY(Text)- #4E5557 (lighter grey) & ##383B3D (darker grey)
 				BACKGROUND- I was orignally going to do a darker background but I want to do white instead so the name pops out.
 	*I could possibly try to create a logo for myself if I have enough time.
 	*The picture of myself will be in circle format or like a diamond if I can figure out how to do it.
 
+*changes as of 07/22: The plain orange text against white looked too boring. So i made the background orange and the text black.
 
 ABOUT ME: Hi, my name is Valentina Rivera-Arriola. Born and raised in San Francisco, California. I’m 23 years old and currently seeking to advance my career! I don’t have any experience in coding, but I’m currently learning and developing skills that I will have to use in the field. 
 
