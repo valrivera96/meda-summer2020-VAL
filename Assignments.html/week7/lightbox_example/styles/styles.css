@@ -1,0 +1,98 @@
+body {
+    background-color: #858283;
+}
+
+h2 {
+    color: black;
+}
+
+#container {
+    width: 700px;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#header {
+    background-color: #D96011;
+}
+
+#header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+#header ul {
+    color: white;
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+#header ul li {
+    background-color: white;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+
+#header ul li a {
+    }
+
+#header ul li a:link {
+    color: black;
+    text-decoration: none;
+}
+
+#header ul li a:visited {
+    color: black;
+}
+
+#header ul li a:hover{
+    color: red;
+}
+
+#main {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#first-section-title {
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#main p {
+    text-align: left;
+    margin-right: 30px;
+    margin-left: 30px;
+    line-height: 20px;
+    color: black;
+}
+
+#main img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    border-radius: 20px; 
+    margin-left: 20px
+}
+#footer {
+    height: 100px;
+    background-color: #D96011;
+}
